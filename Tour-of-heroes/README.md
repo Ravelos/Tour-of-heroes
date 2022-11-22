@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# 4th step
+
+You created a separate, reusable HeroDetailComponent.
+
+You used a property binding to give the parent HeroesComponent control over the child HeroDetailComponent.
+
+You used the @Input decorator to make the hero property available for binding by the external HeroesComponent.
