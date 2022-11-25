@@ -3,6 +3,7 @@
   <div>Id: {{hero.id}}</div>
   <div>
     <label for="hero-name">Hero name:</label>
-    <input id="hero-name" type="text" placeholder="Name" [(ngModel)]= "hero.name"/>
+    <input id="hero-name" type="text" placeholder="Hero name" [(ngModel)]= "hero.name"/>
   </div>
+  <button type="button" (click)="goBack()">go back</button>
 </div>
