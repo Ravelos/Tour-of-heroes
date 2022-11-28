@@ -57,3 +57,5 @@ You used the routerLink directive in anchor elements
 You refactored a tightly coupled main/detail view into a routed detail view
 You used router link parameters to navigate to the detail view of a user-selected hero
 You shared the HeroService with other components
+
+# 7th step
