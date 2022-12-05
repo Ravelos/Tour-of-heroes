@@ -59,3 +59,13 @@ You used router link parameters to navigate to the detail view of a user-selecte
 You shared the HeroService with other components
 
 # 7th step
+
+You're at the end of your journey, and you've accomplished a lot.
+
+You added the necessary dependencies to use HTTP in the application
+You refactored HeroService to load heroes from a web API
+You extended HeroService to support post(), put(), and delete() methods
+You updated the components to allow adding, editing, and deleting of heroes
+You configured an in-memory web API
+You learned how to use observables
+This concludes the "Tour of Heroes" tutorial. You're ready to learn more about Angular development in the fundamentals section, starting with the Architecture guide.
